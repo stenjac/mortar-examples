@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-hacker-news": {
+      "command": "npx",
+      "args": ["-y", "mcp-hacker-news"]
+    }
+  }
+}
